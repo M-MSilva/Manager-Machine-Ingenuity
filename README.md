@@ -2,7 +2,7 @@
 
 ## About this Project
 
-Administer and describe the production of a work or equipment. 
+Administer and manage the production of a work or equipment.
 
 ## Applications
 
@@ -48,7 +48,7 @@ To compile the code it is necessary to have any compiler that runs programs in c
 
 ### Compiling and running the code
 
-To compile the code using the same compiler enjoyed by me (GCC compiler), do:
+To compile the code using the same compiler enjoyed by me (GNU C++ compiler), do:
 
 ```bash
 
