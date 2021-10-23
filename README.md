@@ -44,6 +44,8 @@ The program works fine, if the employer and engineer information is entered firs
 
 To compile the code it is necessary to have any compiler that runs programs in c++ (compilers list), besides this list there are online compilers that easily implement the code such as https://www.onlinegdb.com/ and https://replit.com.
 
+**PS**: For the code to be executed it is necessary that all the files are in the same folder.
+
 ### Compiling and running the code
 
 To compile the code using the same compiler enjoyed by me (GCC compiler), do:
@@ -55,7 +57,7 @@ To compile the code using the same compiler enjoyed by me (GCC compiler), do:
 and run the program at the end:
 
 ```bash
-./prg.x
+
 ```
 ## Contributing 
 
