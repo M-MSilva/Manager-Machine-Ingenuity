@@ -46,19 +46,6 @@ To compile the code it is necessary to have any compiler that runs programs in c
 
 **PS**: For the code to be executed it is necessary that all the files are in the same folder.
 
-### Compiling and running the code
-
-To compile the code using the same compiler enjoyed by me (GNU C++ compiler), do:
-
-```bash
-
-```
-
-and run the program at the end:
-
-```bash
-
-```
 ## Contributing 
 
 Reviews and suggestions feel free to send me:
