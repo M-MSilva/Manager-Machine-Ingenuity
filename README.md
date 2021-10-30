@@ -42,7 +42,7 @@ The program works fine, if the employer and engineer information is not entered 
 
 ### Initial requirements
 
-To compile the code it is necessary to have any compiler that runs programs in c++ (https://en.wikipedia.org/wiki/List_of_compilers), besides this list there are online compilers that easily implement the code such as https://www.onlinegdb.com/ and https://replit.com.
+To compile the code it is necessary to have any compiler that runs programs in c++ (https://en.wikipedia.org/wiki/List_of_compilers#C++_compilers), besides this list there are online compilers that easily implement the code such as https://www.onlinegdb.com/ and https://replit.com.
 
 **PS**: For the code to be executed it is necessary that all the files are in the same folder.
 
