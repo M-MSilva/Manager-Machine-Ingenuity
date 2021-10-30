@@ -36,7 +36,7 @@ This project was developed while I was in graduation and learning c++, in its co
 
 ## Remarks about the program
 
-The program works fine, if the employer and engineer information is entered first, possible errors should otherwise occur due to dependencies that can be observed in the code.
+The program works fine, if the employer and engineer information is not entered first possible errors should occur due to dependencies that can be observed in the code.
 
 ## Instructions for compiling and executing the code
 
