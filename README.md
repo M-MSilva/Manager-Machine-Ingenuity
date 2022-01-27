@@ -6,7 +6,7 @@ Administer and manage the production of a work or equipment.
 
 ## Applications
 
-This project can be used to support your next construction construction or equipment. Although this program is part of my personal portfolio, feel free to use it in studies, repairs and improvements. :call_me_hand:
+This project can be used to support your next construction construction or equipment. Although this program is part of my personal portfolio feel free to use it in studies, repairs and improvements. :call_me_hand:
 
 **PS**: As one of the purposes of this program is learning C++ language, the code is not so robust to manage the creation of equipment/work, but in the future it will be improved.
 
